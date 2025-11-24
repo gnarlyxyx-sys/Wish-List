@@ -1,0 +1,60 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Sky's Portfolio & Wishlist</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #f5f5f5;
+    }
+    header {
+      background: #4a90e2;
+      color: white;
+      padding: 20px;
+      text-align: center;
+      font-size: 24px;
+    }
+    .content {
+      padding: 20px;
+      max-width: 800px;
+      margin: auto;
+      background: white;
+      border-radius: 10px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+    a {
+      color: #4a90e2;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    footer {
+      text-align: center;
+      padding: 10px;
+      margin-top: 20px;
+      color: #777;
+    }
+  </style>
+</head>
+<body>
+  <header>Sky's Portfolio</header>
+  <div class="content">
+    <h2>Hello!</h2>
+    <p>Welcome to my personal portfolio. Check out my wishlist below:</p>
+
+    <h3>Exchange Gift Wishlist</h3>
+    <p>Click the links below to see my wishlist items:</p>
+    <ul>
+      <li><a href="https://vt.tiktok.com/ZSHT8YKcGs3bW-garH6/" target="_blank">Wishlist Item 1</a></li>
+      <li><a href="https://vt.tiktok.com/ZSHT82kyqvwgb-YBqIj/" target="_blank">Wishlist Item 2</a></li>
+    </ul>
+  </div>
+  <footer>&copy; 2025 Sky</footer>
+</body>
+</html>
